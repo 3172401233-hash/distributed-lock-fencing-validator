@@ -1,2 +1,3 @@
-# container-seccomp-policy-verifier
-验证容器 seccomp 策略分层、最小权限和兼容性冲突
+# distributed-lock-fencing-validator
+
+校验分布式锁租约、fencing token 和旧持有者写入。
